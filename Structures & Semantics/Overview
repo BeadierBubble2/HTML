@@ -1,0 +1,23 @@
+<!DOCTYPE html> <!--What type of document & version to expect -->
+<html> <!-- interpret as HTML code -->
+<head> <!-- contains megadata -->
+  <title>  </title> <!--displayed on tab-->
+</head>
+<body> <!--displayed on page-->
+  <header> <!--contains intro content and nav-->
+    <nav>  </nav>
+  </header>
+  <main> <!--main content content of document-->
+    <section> <!--secion in the document-->
+      <article> <!--section of the page that could stand alone--> </article>
+      <aside> <!--related to the article,but not essential-->
+    </section>
+    <figures>  <figcaption>  </figcaption>  </figure> <!--all types of mmedia that relate to the mainflow of document-->
+    <audio control> <!--creates audio-->
+      <source src="" type="">
+    </audio>
+    <video src="" controls>  </video> <!--creates video>
+    <embed src=""/> <!--add gifs-->
+  </main>
+</body>
+</html>
