@@ -13,7 +13,7 @@
       <aside> <!--related to the article,but not essential-->
     </section>
     <figures>  <figcaption>  </figcaption>  </figure> <!--all types of mmedia that relate to the mainflow of document-->
-    <audio control> <!--creates audio-->
+    <audio controls> <!--creates audio-->
       <source src="" type="">
     </audio>
     <video src="" controls>  </video> <!--creates video>
