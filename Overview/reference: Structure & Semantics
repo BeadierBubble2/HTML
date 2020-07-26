@@ -19,5 +19,8 @@
     <video src="" controls>  </video> <!--creates video>
     <embed src=""/> <!--add gifs-->
   </main>
+  <footer>
+    <p> - contact info - Terms of use etc.
+  </footer>
 </body>
 </html>
